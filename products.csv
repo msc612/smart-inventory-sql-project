@@ -1,0 +1,11 @@
+product_id,product_name,category,reorder_level
+1,Product_1,Home,152
+2,Product_2,Electronics,142
+3,Product_3,Stationery,64
+4,Product_4,Stationery,156
+5,Product_5,Home,121
+6,Product_6,Home,70
+7,Product_7,Outdoor,152
+8,Product_8,Electronics,171
+9,Product_9,Lighting,124
+10,Product_10,Electronics,137
